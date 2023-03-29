@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Daniel.Changmasa
+Build-Jdk: 17.0.3
+Implementation-Title: pos
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: lk.ijse.springboot.app
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/pos
+Created-By: Maven Integration for Eclipse
+
